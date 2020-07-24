@@ -1,5 +1,14 @@
 # Todoapp
 
+#how To Install
+
+'git clone' this project to your local
+'cd ngrx-9' - to get into root folder
+'npm install' - for dependencie installation
+'ng serve --open' for compiling and running the project
+
+
+#CLI VERSION
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0
 
 #adding dependencies
