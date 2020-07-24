@@ -2,20 +2,18 @@
 
 ## howToInstall
 
-`it clone`this project to your local
+`git clone`this project to your local
 
-`d ngrx-9`- to get into root folder
+`cd ngrx-9`- to get into root folder
 
-`pm install`- for dependencie installation
+`npm install`- for dependencie installation
 
 `ng serve --open`for compiling and running the project
 
 
-#CLIVersion
+## CLIVersion
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0
 
-#adding dependencies
-npm install
 
 ## Development server
 
