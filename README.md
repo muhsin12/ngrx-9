@@ -1,6 +1,6 @@
 # Todoapp
 
-#howToInstall
+## howToInstall
 
 `it clone`this project to your local
 
@@ -8,7 +8,7 @@
 
 `pm install`- for dependencie installation
 
-`g serve --open`for compiling and running the project
+`ng serve --open`for compiling and running the project
 
 
 #CLIVersion
